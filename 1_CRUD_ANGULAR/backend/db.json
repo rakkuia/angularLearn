@@ -1,0 +1,24 @@
+{
+  "products": [
+    {
+      "name": "Bababoey1",
+      "price": "69.420",
+      "id": 1
+    },
+    {
+      "id": 2,
+      "name": "Birch Door",
+      "price": 9956.95
+    },
+    {
+      "id": 69,
+      "name": "Void Door",
+      "price": 99999.95
+    },
+    {
+      "name": "Bababoey",
+      "price": "69.420",
+      "id": 70
+    }
+  ]
+}
