@@ -12,7 +12,7 @@
 }
 
 .rainbow {
-    background: linear-gradient(to right, #6666ff, #0099ff , #00ff00, #ff3399, #6666ff);
+    background: linear-gradient(to right, #6666ff, #0099ff , #ff3399, #6666ff, #00ff00);
     -webkit-background-clip: text;
     background-clip: text;
     color: transparent;
