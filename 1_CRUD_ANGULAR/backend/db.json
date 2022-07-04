@@ -4,6 +4,16 @@
       "name": "Bababoey1",
       "price": "69.420",
       "id": 1
+    },
+    {
+      "name": "tst",
+      "price": "222",
+      "id": 2
+    },
+    {
+      "name": "1111",
+      "price": "1111",
+      "id": 3
     }
   ]
 }
