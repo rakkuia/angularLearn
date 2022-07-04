@@ -6,34 +6,14 @@
       "id": 1
     },
     {
-      "id": 2,
-      "name": "Birch Door",
-      "price": 9956.95
+      "name": "asd",
+      "price": 1,
+      "id": 2
     },
     {
-      "id": 69,
-      "name": "Void Door",
-      "price": 99999.95
-    },
-    {
-      "name": "Bababoey",
-      "price": "69.420",
-      "id": 70
-    },
-    {
-      "name": "Test",
-      "price": 99.99,
-      "id": 71
-    },
-    {
-      "name": "Test",
-      "price": 99.99,
-      "id": 72
-    },
-    {
-      "name": "Test",
-      "price": 99.99,
-      "id": 73
+      "name": "limbas",
+      "price": "90,20",
+      "id": 3
     }
   ]
 }
