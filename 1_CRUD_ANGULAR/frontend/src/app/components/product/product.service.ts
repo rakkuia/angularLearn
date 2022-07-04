@@ -14,7 +14,7 @@ export class ProductService {
   constructor(private snackBar: MatSnackBar, private http: HttpClient) { }
 
   showMessage(msg: string): void{
-    this.snackBar.open(msg, 'X', {
+    this.snackBar.open(msg, 'λ', {
       duration: 3000,
       horizontalPosition: "center",
       verticalPosition: "top"
