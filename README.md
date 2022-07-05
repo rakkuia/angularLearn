@@ -1,7 +1,7 @@
 # <|Hello There|>
 
     
-_I'm using this repository to register my improvement in nest studies_
+_I'm using this repository to register my improvement in angular studies_
 
-<img src="https://symbols.getvecta.com/stencil_89/36_nestjs.3997c99dfe.png" width="200"/>
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Angular_full_color_logo.svg/240px-Angular_full_color_logo.svg.png" width="200"/>
 
