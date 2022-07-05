@@ -1,59 +1,29 @@
 {
   "create": [
     {
-      "name": "bingas",
-      "price": "69.420",
+      "name": "bababoey",
+      "price": "12309",
       "id": 1
     },
     {
-      "name": "tst",
-      "price": "222",
+      "name": "bimbas",
+      "price": "213",
       "id": 2
     },
     {
-      "name": "1111",
-      "price": "1111",
-      "id": 3
+      "name": "wasd",
+      "price": "23",
+      "id": 4
     },
     {
-      "name": "tst",
-      "price": "222",
-      "id": 2
+      "name": "babas",
+      "price": "2131",
+      "id": 5
     },
     {
-      "name": "1111",
-      "price": "1111",
-      "id": 3
-    },
-    {
-      "name": "tst",
-      "price": "222",
-      "id": 2
-    },
-    {
-      "name": "1111",
-      "price": "1111",
-      "id": 3
-    },
-    {
-      "name": "tst",
-      "price": "222",
-      "id": 2
-    },
-    {
-      "name": "1111",
-      "price": "1111",
-      "id": 3
-    },
-    {
-      "name": "tst",
-      "price": "222",
-      "id": 2
-    },
-    {
-      "name": "1111",
-      "price": "1111",
-      "id": 3
+      "name": "asd",
+      "price": "asd",
+      "id": 6
     }
   ]
 }
