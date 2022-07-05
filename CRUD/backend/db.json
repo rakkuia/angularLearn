@@ -1,0 +1,24 @@
+{
+  "create": [
+    {
+      "name": "bimbas",
+      "price": "213w",
+      "id": 2
+    },
+    {
+      "name": "wasd",
+      "price": "23",
+      "id": 4
+    },
+    {
+      "name": "babas",
+      "price": "2131",
+      "id": 5
+    },
+    {
+      "name": "asd",
+      "price": "asd",
+      "id": 6
+    }
+  ]
+}
